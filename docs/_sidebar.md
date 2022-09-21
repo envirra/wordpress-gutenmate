@@ -1,0 +1,12 @@
+-   Getting started
+    -   [Quick start](/getting-started/quick-start.md)
+    -   [Plugin settings](/getting-started/plugin-settings.md)
+    -   [Global presets](/getting-started/global-presets.md)
+-   [The gutenberg editor](/gutenberg.md)
+-   Using gutenmate
+    -   [Regular blocks](/gutenmate/regular-blocks.md)
+    -   [Specialty blocks](/gutenmate/specialty-blocks.md)
+    -   [Additional options](/gutenmate/additional-options.md)
+-   [Theme Development](/theme-development.md)
+-   [FAQ](/faq.md)
+-   [Credits](/credits.md)
