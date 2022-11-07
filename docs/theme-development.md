@@ -1,6 +1,6 @@
 # Theme Development
 
-Gutenmate supports integration from theme to have a better behavior and reduce work for theme developer. This section is for developers who have knowledge of coding and Wordpress theme development.
+Gutenmate supports integration from theme to have a better behavior and reduce work for theme developer. This section is for developers who have knowledge of coding and WordPress theme development.
 
 ## Recipe summary
 A custom field set for inputting a recipe summary (used for creating a recipe post). Use the below code to enable it.

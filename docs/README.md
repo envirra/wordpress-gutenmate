@@ -1,10 +1,10 @@
 # Gutenmate
-> The essential toolkit for Wordpress editor.
+> The essential toolkit for WordPress editor.
 
 The Gutenmate is a WordPress plugin that includes a collection of blocks that make it much easier to create a beautiful website.
 
 ## Features
-* Fully support the new Wordpress editor (Gutenberg)
+* Fully support the new WordPress editor (Gutenberg)
 * More than 50+ blocks for creating websites
   * Review blocks
   * Layout blocks

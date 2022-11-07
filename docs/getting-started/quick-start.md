@@ -4,7 +4,7 @@
 
 There are 2 ways to install the Gutenmate plugin:
 
-### Installation via Wordpress
+### Installation via WordPress
 
 1. Login to your WordPress admin.
 2. In the `Plugins > Add new` menu, click the button **Upload Plugin**
